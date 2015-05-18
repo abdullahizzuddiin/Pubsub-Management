@@ -1,0 +1,37 @@
+{
+  "name": "pubsub_management",
+  "author": "Abdullah Izzuddiin Alqassam - 1106053546 <abdullahizzuddiin@gmail.com>",
+  "version": "1.0.0",
+  "description": "Publish and Subsribe management platform for Internet of Things",
+  "keywords": [
+    "iot",
+    "internet of things",
+    "publish",
+    "publisher",
+    "subsribe",
+    "subsriber",
+    "management"
+  ],
+  "homepage": "http://TO DO INSERT HOME PAGE HERE",
+  "repository": {
+    "type": "git",
+    "url": "git://TO DO INSERT GIT REPO PAGE HERE"
+  },
+  "bugs": {
+    "url": "http://INSERT BUG(s) page here"
+  },
+  "main": "app.js",
+  "engines": {
+    "node": "0.12.0"
+  },
+  "license": "Universitas Indonesia",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "fs": "0.0.2",
+    "mqtt": "^1.1.5",
+    "restify": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
